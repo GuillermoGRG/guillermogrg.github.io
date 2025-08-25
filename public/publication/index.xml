@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Guillermo Gambini</title>
+    <link>http://localhost:1313/publication/</link>
+      <atom:link href="http://localhost:1313/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
+      <title>Publications</title>
+      <link>http://localhost:1313/publication/</link>
+    </image>
+    
+    <item>
+      <title>Constraining Gamma-ray Lines from Dark Matter Annihilation using Fermi-LAT and H.E.S.S. data</title>
+      <link>http://localhost:1313/publication/dm-id/</link>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dm-id/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Constraints on heavy neutral leptons interacting with a singlet scalar</title>
+      <link>http://localhost:1313/publication/hnls/</link>
+      <pubDate>Mon, 07 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/hnls/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
