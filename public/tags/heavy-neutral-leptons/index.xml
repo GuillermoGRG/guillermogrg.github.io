@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Heavy Neutral Leptons | Guillermo Gambini</title>
+    <link>http://localhost:1313/tags/heavy-neutral-leptons/</link>
+      <atom:link href="http://localhost:1313/tags/heavy-neutral-leptons/index.xml" rel="self" type="application/rss+xml" />
+    <description>Heavy Neutral Leptons</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 07 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
+      <title>Heavy Neutral Leptons</title>
+      <link>http://localhost:1313/tags/heavy-neutral-leptons/</link>
+    </image>
+    
+    <item>
+      <title>Constraints on heavy neutral leptons interacting with a singlet scalar</title>
+      <link>http://localhost:1313/publication/hnls/</link>
+      <pubDate>Mon, 07 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/hnls/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

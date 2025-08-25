@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teaching | Guillermo Gambini</title>
+    <link>http://localhost:1313/teaching/</link>
+      <atom:link href="http://localhost:1313/teaching/index.xml" rel="self" type="application/rss+xml" />
+    <description>Teaching</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 23 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
+      <title>Teaching</title>
+      <link>http://localhost:1313/teaching/</link>
+    </image>
+    
+    <item>
+      <title>Becas</title>
+      <link>http://localhost:1313/teaching/js/</link>
+      <pubDate>Sat, 23 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/js/</guid>
+      <description>&lt;p&gt;Aquí una lista (incompleta) de lugares que ofrecen becas para estudios de maestria y doctorado (directo) y también es posible viajar para allá por períodos cortos (semanas/meses) durante el pregrado:&lt;/p&gt;
+&lt;p&gt;
+&lt;/p&gt;
+&lt;p&gt;
+ (para varias universidades de Brasil)&lt;/p&gt;
+&lt;p&gt;CERN: 
+&lt;/p&gt;
+&lt;p&gt;
+ (contactar un investigador para ver oportunidades)&lt;/p&gt;
+&lt;p&gt;Para alumnos de pregrado de la UNI:&lt;/p&gt;
+&lt;p&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tesis de Licenciatura</title>
+      <link>http://localhost:1313/teaching/python/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/python/</guid>
+      <description>&lt;p&gt;El template que hice para la tesis de licenciatura UNI estilo IEEE (basado en la resolución rectoral RR_1439-2023) puede ser descargado aqui 
+.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Las intrucciones se encuentran en el archivo README&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

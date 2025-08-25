@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LINKS | Guillermo Gambini</title>
+    <link>http://localhost:1313/tags/links/</link>
+      <atom:link href="http://localhost:1313/tags/links/index.xml" rel="self" type="application/rss+xml" />
+    <description>LINKS</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 23 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
+      <title>LINKS</title>
+      <link>http://localhost:1313/tags/links/</link>
+    </image>
+    
+    <item>
+      <title>Becas</title>
+      <link>http://localhost:1313/teaching/js/</link>
+      <pubDate>Sat, 23 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/js/</guid>
+      <description>&lt;p&gt;Aquí una lista (incompleta) de lugares que ofrecen becas para estudios de maestria y doctorado (directo) y también es posible viajar para allá por períodos cortos (semanas/meses) durante el pregrado:&lt;/p&gt;
+&lt;p&gt;
+&lt;/p&gt;
+&lt;p&gt;
+ (para varias universidades de Brasil)&lt;/p&gt;
+&lt;p&gt;CERN: 
+&lt;/p&gt;
+&lt;p&gt;
+ (contactar un investigador para ver oportunidades)&lt;/p&gt;
+&lt;p&gt;Para alumnos de pregrado de la UNI:&lt;/p&gt;
+&lt;p&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
